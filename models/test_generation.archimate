@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="Test Gen Auto" id="id-cabd1e5d39632ec397cf90d5eb4699d8" version="5.0.0">
+  <folder name="Strategy" id="id-091ad6b96c36df64005311d03bccd1d5" type="strategy"/>
+  <folder name="Business" id="id-8a5367e8ee03502558360fa037e5297f" type="business"/>
+  <folder name="Application" id="id-5495e78c2d973bdda848616e2703bb0f" type="application">
+    <element xsi:type="archimate:ApplicationComponent" name="API de Test" id="id-431ff59c6cebef3ff458f6915b53121e">
+      <documentation>Générée automatiquement par l&apos;IA</documentation>
+    </element>
+  </folder>
+  <folder name="Technology &amp; Physical" id="id-da05e1930ba9b8262d8fbe7242e1b7ef" type="technology">
+    <element xsi:type="archimate:Node" name="Serveur Docker Host" id="id-684c16a35df5a502073537def3649470">
+      <documentation>Héberge l&apos;API</documentation>
+    </element>
+  </folder>
+  <folder name="Motivation" id="id-f5aa2450ff4dcfc408481584a42dd7b8" type="motivation"/>
+  <folder name="Implementation &amp; Migration" id="id-828f26f56eff6853bf0578d80d01b6e0" type="implementation_migration"/>
+  <folder name="Other" id="id-c2e9c6d59a1a23bbe2218601feac10d4" type="other"/>
+  <folder name="Relations" id="id-6c26a55834f154658800c87233ac552b" type="relations"/>
+  <folder name="Views" id="id-f4e6e6605eb065d9d54e8bef64acb9f5" type="diagrams"/>
+</archimate:model>
